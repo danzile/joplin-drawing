@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "ch.anzile.drawing",
+	"app_min_version": "3.3",
+	"version": "1.0.0",
+	"name": "Drawing",
+	"description": "This plugin is a free alternative to GoodNotes",
+	"author": "Anzile Danilo",
+	"homepage_url": "anzile.ch",
+	"repository_url": "",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {}
+}
